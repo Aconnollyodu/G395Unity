@@ -8,3 +8,5 @@ Unity package manager is a god send that allows for sharing or collaborated pref
 
 ## Week 4
 Yes I have found a couple of mod kits that I wish to include within my project. One of those is the John Lemons Haunted Juant Kit, additioanly as well like we discussed within our one on one meeting I will also be including different modpacks like the dog knight I used for classwork, in addition to these other kits used will be much more small and minimal more for aesthetics and design choices. As of now I wish to utilize all of  these mod kits, although this could change depending on compiler errors and or like issues. 
+
+## Week 5
